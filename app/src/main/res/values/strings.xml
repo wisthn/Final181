@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Final181</string>
+    <string name="etname_hint">Enter Name</string>
+    <string name="eturl_hint">Enter URL</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_save">Save List</string>
+    <string name="btn_inapp">Open In App</string>
+    <string name="btn_inbrowser">Open in Browser</string>
+</resources>
